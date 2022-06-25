@@ -1,1 +1,7 @@
+[status]
 token = ""
+status = "ONLINE"
+
+[activity]
+type = "WATCHING"
+description = "www.skuxxbuilds.com"
