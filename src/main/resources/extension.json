@@ -1,0 +1,5 @@
+{
+  "entrypoint": "com.skuxxbuilds.metadiscord.MetaDiscord",
+  "name": "MetaDiscord",
+  "version": "1.0-SNAPSHOT"
+}
